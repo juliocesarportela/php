@@ -1,5 +1,7 @@
 <?php 
 
-echo "Aula PHP 7 Completo";
+$nome = "Julio";
+
+echo $nome;
 
 ?>
